@@ -60,10 +60,15 @@ flowchart LR
 ## 技術棧
 
 **CV**　OpenCV · anomalib（RD / EfficientAD / FastFlow / STFPM / PatchCore / PaDiM）· YOLOv10 / v11-seg · RF-DETR · Detectron2 · SAM / SAM2
+
 **推論部署**　OpenVINO · TensorRT · ONNX · cx_Freeze · NSSM · Poetry
+
 **3D 視覺**　Open3D · PCL · DBSCAN · RANSAC · 立體相機 SDK · 座標系校正
+
 **後端 / MLOps**　Python · FastAPI · 非同步推論 · MLflow · TensorBoard
+
 **LLM**　LangChain · LangGraph · SQL Agent · RAG · Streamlit
+
 **硬體整合**　工業相機 · 雷射位移感測 · NVIDIA GPU / Jetson Nano · Intel Arc GPU / Core Ultra NPU · 工業電腦 · PLC · PoE
 
 ## 學歷
